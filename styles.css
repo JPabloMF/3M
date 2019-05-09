@@ -14,8 +14,8 @@ p{
   font-weight: bold;
 }
 
-p:nth-child(1){
-  font-size: 250px;
+img{
+  width: 250px;
   margin: 10px 0;
 }
 
