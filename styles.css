@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  font-size: 20px;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -35,7 +35,7 @@ img {
 /* Extra small */
 @media screen and (max-width: 576px) {
   img {
-    width: 20px;
+    width: 250px;
     margin: 10px 0;
   }
 }
