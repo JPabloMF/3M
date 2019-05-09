@@ -15,7 +15,6 @@ p {
 }
 
 img {
-  width: 500px;
   margin: 10px 0;
 }
 
@@ -30,41 +29,4 @@ img {
 
 .other {
   background-color: rgb(255, 144, 144);
-}
-
-/* Extra small */
-@media screen and (max-width: 576px) {
-  img {
-    width: 500px;
-    margin: 10px 0;
-  }
-}
-
-/* Small */
-@media (min-width: 577px) and (max-width: 768px) {
-  img {
-    width: 500px;
-    margin: 10px 0;
-  }
-}
-/* Medium */
-@media (min-width: 769px) and (max-width: 992px) {
-  img {
-    width: 500px;
-    margin: 10px 0;
-  }
-}
-/* Large */
-@media (min-width: 993px) and (max-width: 1200px) {
-  img {
-    width: 500px;
-    margin: 10px 0;
-  }
-}
-/* Extra large */
-@media (min-width: 1200px) {
-  img {
-    width: 500px;
-    margin: 10px 0;
-  }
 }
