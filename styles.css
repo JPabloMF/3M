@@ -35,7 +35,7 @@ img {
 /* Extra small */
 @media screen and (max-width: 576px) {
   img {
-    width: 250px;
+    width: 500px;
     margin: 10px 0;
   }
 }
